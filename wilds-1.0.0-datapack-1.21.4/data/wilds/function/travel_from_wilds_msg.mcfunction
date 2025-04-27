@@ -1,0 +1,1 @@
+title @p title [{"text":"Leaving "},{"bold":true,"color":"#FFFFFF","italic":true,"shadow_color":-16711423,"text":"The Wilds"}]
