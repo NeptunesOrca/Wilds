@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 94,
-    "description": ""
+    "description": {
+      "translate": "test"
+    },
+    "min_format": [94.1, 0],
+    "max_format": [94.1, 0]
   }
 }
