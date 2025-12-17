@@ -361,7 +361,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "badlands"
+                "minecraft:badlands"
               ]
             },
             "then_run": {
@@ -433,7 +433,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "bamboo_jungle"
+                "minecraft:bamboo_jungle"
               ]
             },
             "then_run": {
@@ -508,7 +508,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "basalt_deltas"
+                "minecraft:basalt_deltas"
               ]
             },
             "then_run": {
@@ -583,7 +583,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "beach"
+                "minecraft:beach"
               ]
             },
             "then_run": {
@@ -658,7 +658,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "birch_forest"
+                "minecraft:birch_forest"
               ]
             },
             "then_run": {
@@ -733,7 +733,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "cherry_grove"
+                "minecraft:cherry_grove"
               ]
             },
             "then_run": {
@@ -808,7 +808,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "cold_ocean"
+                "minecraft:cold_ocean"
               ]
             },
             "then_run": {
@@ -883,7 +883,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "crimson_forest"
+                "minecraft:crimson_forest"
               ]
             },
             "then_run": {
@@ -955,7 +955,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "dark_forest"
+                "minecraft:dark_forest"
               ]
             },
             "then_run": {
@@ -1030,7 +1030,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "deep_cold_ocean"
+                "minecraft:deep_cold_ocean"
               ]
             },
             "then_run": {
@@ -1105,7 +1105,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "deep_dark"
+                "minecraft:deep_dark"
               ]
             },
             "then_run": {
@@ -1183,7 +1183,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "deep_frozen_ocean"
+                "minecraft:deep_frozen_ocean"
               ]
             },
             "then_run": {
@@ -1258,7 +1258,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "deep_lukewarm_ocean"
+                "minecraft:deep_lukewarm_ocean"
               ]
             },
             "then_run": {
@@ -1333,7 +1333,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "deep_ocean"
+                "minecraft:deep_ocean"
               ]
             },
             "then_run": {
@@ -1408,7 +1408,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "desert"
+                "minecraft:desert"
               ]
             },
             "then_run": {
@@ -1480,7 +1480,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "dripstone_caves"
+                "minecraft:dripstone_caves"
               ]
             },
             "then_run": {
@@ -1555,7 +1555,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "end_barrens"
+                "minecraft:end_barrens"
               ]
             },
             "then_run": {
@@ -1627,7 +1627,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "end_highlands"
+                "minecraft:end_highlands"
               ]
             },
             "then_run": {
@@ -1699,7 +1699,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "end_midlands"
+                "minecraft:end_midlands"
               ]
             },
             "then_run": {
@@ -1771,7 +1771,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "eroded_badlands"
+                "minecraft:eroded_badlands"
               ]
             },
             "then_run": {
@@ -1843,7 +1843,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "flower_forest"
+                "minecraft:flower_forest"
               ]
             },
             "then_run": {
@@ -1918,7 +1918,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "forest"
+                "minecraft:forest"
               ]
             },
             "then_run": {
@@ -1993,7 +1993,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "frozen_ocean"
+                "minecraft:frozen_ocean"
               ]
             },
             "then_run": {
@@ -2068,7 +2068,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "frozen_peaks"
+                "minecraft:frozen_peaks"
               ]
             },
             "then_run": {
@@ -2143,7 +2143,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "frozen_river"
+                "minecraft:frozen_river"
               ]
             },
             "then_run": {
@@ -2218,7 +2218,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "grove"
+                "minecraft:grove"
               ]
             },
             "then_run": {
@@ -2293,7 +2293,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "ice_spikes"
+                "minecraft:ice_spikes"
               ]
             },
             "then_run": {
@@ -2368,7 +2368,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "jagged_peaks"
+                "minecraft:jagged_peaks"
               ]
             },
             "then_run": {
@@ -2443,7 +2443,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "jungle"
+                "minecraft:jungle"
               ]
             },
             "then_run": {
@@ -2518,7 +2518,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "lukewarm_ocean"
+                "minecraft:lukewarm_ocean"
               ]
             },
             "then_run": {
@@ -2593,7 +2593,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "lush_caves"
+                "minecraft:lush_caves"
               ]
             },
             "then_run": {
@@ -2668,7 +2668,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "mangrove_swamp"
+                "minecraft:mangrove_swamp"
               ]
             },
             "then_run": {
@@ -2743,7 +2743,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "meadow"
+                "minecraft:meadow"
               ]
             },
             "then_run": {
@@ -2818,7 +2818,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "mushroom_fields"
+                "minecraft:mushroom_fields"
               ]
             },
             "then_run": {
@@ -2893,7 +2893,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "nether_wastes"
+                "minecraft:nether_wastes"
               ]
             },
             "then_run": {
@@ -2968,7 +2968,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "ocean"
+                "minecraft:ocean"
               ]
             },
             "then_run": {
@@ -3043,7 +3043,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "old_growth_birch_forest"
+                "minecraft:old_growth_birch_forest"
               ]
             },
             "then_run": {
@@ -3118,7 +3118,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "old_growth_pine_taiga"
+                "minecraft:old_growth_pine_taiga"
               ]
             },
             "then_run": {
@@ -3193,7 +3193,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "old_growth_spruce_taiga"
+                "minecraft:old_growth_spruce_taiga"
               ]
             },
             "then_run": {
@@ -3268,7 +3268,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "pale_garden"
+                "minecraft:pale_garden"
               ]
             },
             "then_run": {
@@ -3343,7 +3343,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "plains"
+                "minecraft:plains"
               ]
             },
             "then_run": {
@@ -3418,7 +3418,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "river"
+                "minecraft:river"
               ]
             },
             "then_run": {
@@ -3493,7 +3493,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "savanna"
+                "minecraft:savanna"
               ]
             },
             "then_run": {
@@ -3568,7 +3568,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "savanna_plateau"
+                "minecraft:savanna_plateau"
               ]
             },
             "then_run": {
@@ -3643,7 +3643,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "small_end_islands"
+                "minecraft:small_end_islands"
               ]
             },
             "then_run": {
@@ -3715,7 +3715,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "snowy_slopes"
+                "minecraft:snowy_slopes"
               ]
             },
             "then_run": {
@@ -3790,7 +3790,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "snowy_beach"
+                "minecraft:snowy_beach"
               ]
             },
             "then_run": {
@@ -3865,7 +3865,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "snowy_plains"
+                "minecraft:snowy_plains"
               ]
             },
             "then_run": {
@@ -3940,7 +3940,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "snowy_taiga"
+                "minecraft:snowy_taiga"
               ]
             },
             "then_run": {
@@ -4015,7 +4015,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "soul_sand_valley"
+                "minecraft:soul_sand_valley"
               ]
             },
             "then_run": {
@@ -4087,7 +4087,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "sparse_jungle"
+                "minecraft:sparse_jungle"
               ]
             },
             "then_run": {
@@ -4162,7 +4162,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "stony_peaks"
+                "minecraft:stony_peaks"
               ]
             },
             "then_run": {
@@ -4237,7 +4237,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "stony_shore"
+                "minecraft:stony_shore"
               ]
             },
             "then_run": {
@@ -4312,7 +4312,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "sunflower_plains"
+                "minecraft:sunflower_plains"
               ]
             },
             "then_run": {
@@ -4387,7 +4387,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "swamp"
+                "minecraft:swamp"
               ]
             },
             "then_run": {
@@ -4462,7 +4462,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "taiga"
+                "minecraft:taiga"
               ]
             },
             "then_run": {
@@ -4537,7 +4537,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "the_end"
+                "minecraft:the_end"
               ]
             },
             "then_run": {
@@ -4609,7 +4609,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "the_void"
+                "minecraft:the_void"
               ]
             },
             "then_run": {
@@ -4684,7 +4684,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "warm_ocean"
+                "minecraft:warm_ocean"
               ]
             },
             "then_run": {
@@ -4759,7 +4759,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "warped_forest"
+                "minecraft:warped_forest"
               ]
             },
             "then_run": {
@@ -4831,7 +4831,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "windswept_forest"
+                "minecraft:windswept_forest"
               ]
             },
             "then_run": {
@@ -4906,7 +4906,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "windswept_gravelly_hills"
+                "minecraft:windswept_gravelly_hills"
               ]
             },
             "then_run": {
@@ -4981,7 +4981,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "windswept_hills"
+                "minecraft:windswept_hills"
               ]
             },
             "then_run": {
@@ -5056,7 +5056,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "windswept_savanna"
+                "minecraft:windswept_savanna"
               ]
             },
             "then_run": {
@@ -5131,7 +5131,7 @@
             "if_true": {
               "type": "minecraft:biome",
               "biome_is": [
-                "wooded_badlands"
+                "minecraft:wooded_badlands"
               ]
             },
             "then_run": {
