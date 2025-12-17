@@ -6,7 +6,7 @@
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "badlands",
+          "biome": "minecraft:badlands",
           "parameters": {
             "temperature": [
               0.55,
@@ -33,7 +33,7 @@
           }
         },
         {
-          "biome": "bamboo_jungle",
+          "biome": "minecraft:bamboo_jungle",
           "parameters": {
             "temperature": [
               0.2,
@@ -60,7 +60,7 @@
           }
         },
         {
-          "biome": "basalt_deltas",
+          "biome": "minecraft:basalt_deltas",
           "parameters": {
             "temperature": -0.5,
             "humidity": 0,
@@ -72,7 +72,7 @@
           }
         },
         {
-          "biome": "beach",
+          "biome": "minecraft:beach",
           "parameters": {
             "temperature": [
               -0.45,
@@ -99,7 +99,7 @@
           }
         },
         {
-          "biome": "birch_forest",
+          "biome": "minecraft:birch_forest",
           "parameters": {
             "temperature": [
               -0.15,
@@ -126,7 +126,7 @@
           }
         },
         {
-          "biome": "cherry_grove",
+          "biome": "minecraft:cherry_grove",
           "parameters": {
             "temperature": [
               -1,
@@ -153,7 +153,7 @@
           }
         },
         {
-          "biome": "cold_ocean",
+          "biome": "minecraft:cold_ocean",
           "parameters": {
             "temperature": [
               -0.45,
@@ -180,7 +180,7 @@
           }
         },
         {
-          "biome": "crimson_forest",
+          "biome": "minecraft:crimson_forest",
           "parameters": {
             "temperature": 0.4,
             "humidity": 0,
@@ -192,7 +192,7 @@
           }
         },
         {
-          "biome": "dark_forest",
+          "biome": "minecraft:dark_forest",
           "parameters": {
             "temperature": [
               -0.15,
@@ -219,7 +219,7 @@
           }
         },
         {
-          "biome": "deep_cold_ocean",
+          "biome": "minecraft:deep_cold_ocean",
           "parameters": {
             "temperature": [
               -0.45,
@@ -246,7 +246,7 @@
           }
         },
         {
-          "biome": "deep_dark",
+          "biome": "minecraft:deep_dark",
           "parameters": {
             "temperature": [
               -1,
@@ -273,7 +273,7 @@
           }
         },
         {
-          "biome": "deep_frozen_ocean",
+          "biome": "minecraft:deep_frozen_ocean",
           "parameters": {
             "temperature": [
               -1,
@@ -300,7 +300,7 @@
           }
         },
         {
-          "biome": "deep_lukewarm_ocean",
+          "biome": "minecraft:deep_lukewarm_ocean",
           "parameters": {
             "temperature": [
               0.2,
@@ -327,7 +327,7 @@
           }
         },
         {
-          "biome": "deep_ocean",
+          "biome": "minecraft:deep_ocean",
           "parameters": {
             "temperature": [
               -0.15,
@@ -354,7 +354,7 @@
           }
         },
         {
-          "biome": "desert",
+          "biome": "minecraft:desert",
           "parameters": {
             "temperature": [
               0.55,
@@ -381,7 +381,7 @@
           }
         },
         {
-          "biome": "dripstone_caves",
+          "biome": "minecraft:dripstone_caves",
           "parameters": {
             "temperature": [
               -1,
@@ -411,7 +411,7 @@
           }
         },
         {
-          "biome": "end_barrens",
+          "biome": "minecraft:end_barrens",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -423,7 +423,7 @@
           }
         },
         {
-          "biome": "end_highlands",
+          "biome": "minecraft:end_highlands",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -435,7 +435,7 @@
           }
         },
         {
-          "biome": "end_midlands",
+          "biome": "minecraft:end_midlands",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -447,7 +447,7 @@
           }
         },
         {
-          "biome": "eroded_badlands",
+          "biome": "minecraft:eroded_badlands",
           "parameters": {
             "temperature": [
               0.55,
@@ -474,7 +474,7 @@
           }
         },
         {
-          "biome": "flower_forest",
+          "biome": "minecraft:flower_forest",
           "parameters": {
             "temperature": [
               -0.15,
@@ -501,7 +501,7 @@
           }
         },
         {
-          "biome": "forest",
+          "biome": "minecraft:forest",
           "parameters": {
             "temperature": [
               -0.45,
@@ -528,7 +528,7 @@
           }
         },
         {
-          "biome": "frozen_ocean",
+          "biome": "minecraft:frozen_ocean",
           "parameters": {
             "temperature": [
               -1,
@@ -555,7 +555,7 @@
           }
         },
         {
-          "biome": "frozen_peaks",
+          "biome": "minecraft:frozen_peaks",
           "parameters": {
             "temperature": [
               -1,
@@ -582,7 +582,7 @@
           }
         },
         {
-          "biome": "frozen_river",
+          "biome": "minecraft:frozen_river",
           "parameters": {
             "temperature": [
               -1,
@@ -609,7 +609,7 @@
           }
         },
         {
-          "biome": "grove",
+          "biome": "minecraft:grove",
           "parameters": {
             "temperature": [
               -1,
@@ -636,7 +636,7 @@
           }
         },
         {
-          "biome": "ice_spikes",
+          "biome": "minecraft:ice_spikes",
           "parameters": {
             "temperature": [
               -1,
@@ -663,7 +663,7 @@
           }
         },
         {
-          "biome": "jagged_peaks",
+          "biome": "minecraft:jagged_peaks",
           "parameters": {
             "temperature": [
               -1,
@@ -690,7 +690,7 @@
           }
         },
         {
-          "biome": "jungle",
+          "biome": "minecraft:jungle",
           "parameters": {
             "temperature": [
               0.2,
@@ -717,7 +717,7 @@
           }
         },
         {
-          "biome": "lukewarm_ocean",
+          "biome": "minecraft:lukewarm_ocean",
           "parameters": {
             "temperature": [
               0.2,
@@ -744,7 +744,7 @@
           }
         },
         {
-          "biome": "lush_caves",
+          "biome": "minecraft:lush_caves",
           "parameters": {
             "temperature": [
               -1,
@@ -774,7 +774,7 @@
           }
         },
         {
-          "biome": "mangrove_swamp",
+          "biome": "minecraft:mangrove_swamp",
           "parameters": {
             "temperature": [
               0.2,
@@ -801,7 +801,7 @@
           }
         },
         {
-          "biome": "meadow",
+          "biome": "minecraft:meadow",
           "parameters": {
             "temperature": [
               -0.45,
@@ -828,7 +828,7 @@
           }
         },
         {
-          "biome": "mushroom_fields",
+          "biome": "minecraft:mushroom_fields",
           "parameters": {
             "temperature": [
               -1,
@@ -855,7 +855,7 @@
           }
         },
         {
-          "biome": "nether_wastes",
+          "biome": "minecraft:nether_wastes",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -867,7 +867,7 @@
           }
         },
         {
-          "biome": "ocean",
+          "biome": "minecraft:ocean",
           "parameters": {
             "temperature": [
               -0.15,
@@ -894,7 +894,7 @@
           }
         },
         {
-          "biome": "old_growth_birch_forest",
+          "biome": "minecraft:old_growth_birch_forest",
           "parameters": {
             "temperature": [
               -0.15,
@@ -921,7 +921,7 @@
           }
         },
         {
-          "biome": "old_growth_pine_taiga",
+          "biome": "minecraft:old_growth_pine_taiga",
           "parameters": {
             "temperature": [
               -0.45,
@@ -948,7 +948,7 @@
           }
         },
         {
-          "biome": "old_growth_spruce_taiga",
+          "biome": "minecraft:old_growth_spruce_taiga",
           "parameters": {
             "temperature": [
               -0.45,
@@ -975,7 +975,7 @@
           }
         },
         {
-          "biome": "pale_garden",
+          "biome": "minecraft:pale_garden",
           "parameters": {
             "temperature": [
               -1,
@@ -1002,7 +1002,7 @@
           }
         },
         {
-          "biome": "plains",
+          "biome": "minecraft:plains",
           "parameters": {
             "temperature": [
               -0.45,
@@ -1029,7 +1029,7 @@
           }
         },
         {
-          "biome": "river",
+          "biome": "minecraft:river",
           "parameters": {
             "temperature": [
               -0.45,
@@ -1056,7 +1056,7 @@
           }
         },
         {
-          "biome": "savanna",
+          "biome": "minecraft:savanna",
           "parameters": {
             "temperature": [
               0.2,
@@ -1083,7 +1083,7 @@
           }
         },
         {
-          "biome": "savanna_plateau",
+          "biome": "minecraft:savanna_plateau",
           "parameters": {
             "temperature": [
               0.2,
@@ -1110,7 +1110,7 @@
           }
         },
         {
-          "biome": "small_end_islands",
+          "biome": "minecraft:small_end_islands",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -1122,7 +1122,7 @@
           }
         },
         {
-          "biome": "snowy_slopes",
+          "biome": "minecraft:snowy_slopes",
           "parameters": {
             "temperature": [
               -1,
@@ -1149,7 +1149,7 @@
           }
         },
         {
-          "biome": "snowy_beach",
+          "biome": "minecraft:snowy_beach",
           "parameters": {
             "temperature": [
               -1,
@@ -1176,7 +1176,7 @@
           }
         },
         {
-          "biome": "snowy_plains",
+          "biome": "minecraft:snowy_plains",
           "parameters": {
             "temperature": [
               -1,
@@ -1203,7 +1203,7 @@
           }
         },
         {
-          "biome": "snowy_taiga",
+          "biome": "minecraft:snowy_taiga",
           "parameters": {
             "temperature": [
               -1,
@@ -1230,7 +1230,7 @@
           }
         },
         {
-          "biome": "soul_sand_valley",
+          "biome": "minecraft:soul_sand_valley",
           "parameters": {
             "temperature": 0,
             "humidity": -0.5,
@@ -1242,7 +1242,7 @@
           }
         },
         {
-          "biome": "sparse_jungle",
+          "biome": "minecraft:sparse_jungle",
           "parameters": {
             "temperature": [
               0.2,
@@ -1269,7 +1269,7 @@
           }
         },
         {
-          "biome": "stony_peaks",
+          "biome": "minecraft:stony_peaks",
           "parameters": {
             "temperature": [
               0.2,
@@ -1296,7 +1296,7 @@
           }
         },
         {
-          "biome": "stony_shore",
+          "biome": "minecraft:stony_shore",
           "parameters": {
             "temperature": [
               -1,
@@ -1323,7 +1323,7 @@
           }
         },
         {
-          "biome": "sunflower_plains",
+          "biome": "minecraft:sunflower_plains",
           "parameters": {
             "temperature": [
               -0.15,
@@ -1350,7 +1350,7 @@
           }
         },
         {
-          "biome": "swamp",
+          "biome": "minecraft:swamp",
           "parameters": {
             "temperature": [
               -0.45,
@@ -1377,7 +1377,7 @@
           }
         },
         {
-          "biome": "taiga",
+          "biome": "minecraft:taiga",
           "parameters": {
             "temperature": [
               -1,
@@ -1404,7 +1404,7 @@
           }
         },
         {
-          "biome": "the_end",
+          "biome": "minecraft:the_end",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -1416,7 +1416,7 @@
           }
         },
         {
-          "biome": "the_void",
+          "biome": "minecraft:the_void",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -1428,7 +1428,7 @@
           }
         },
         {
-          "biome": "warm_ocean",
+          "biome": "minecraft:warm_ocean",
           "parameters": {
             "temperature": [
               0.55,
@@ -1455,7 +1455,7 @@
           }
         },
         {
-          "biome": "warped_forest",
+          "biome": "minecraft:warped_forest",
           "parameters": {
             "temperature": 0,
             "humidity": 0.5,
@@ -1467,7 +1467,7 @@
           }
         },
         {
-          "biome": "windswept_forest",
+          "biome": "minecraft:windswept_forest",
           "parameters": {
             "temperature": [
               -1,
@@ -1494,7 +1494,7 @@
           }
         },
         {
-          "biome": "windswept_gravelly_hills",
+          "biome": "minecraft:windswept_gravelly_hills",
           "parameters": {
             "temperature": [
               -1,
@@ -1521,7 +1521,7 @@
           }
         },
         {
-          "biome": "windswept_hills",
+          "biome": "minecraft:windswept_hills",
           "parameters": {
             "temperature": [
               -1,
@@ -1548,7 +1548,7 @@
           }
         },
         {
-          "biome": "windswept_savanna",
+          "biome": "minecraft:windswept_savanna",
           "parameters": {
             "temperature": [
               -0.15,
@@ -1575,7 +1575,7 @@
           }
         },
         {
-          "biome": "wooded_badlands",
+          "biome": "minecraft:wooded_badlands",
           "parameters": {
             "temperature": [
               0.55,
