@@ -1,2 +1,2 @@
 execute unless dimension wilds:wilds run function wilds:travel_to_wilds_msg
-execute in wilds:wilds run teleport @e ~ ~ ~
+execute in wilds:wilds run teleport @e[distance=..16,sort=nearest] ~ ~ ~
