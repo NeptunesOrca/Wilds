@@ -1,1 +1,1 @@
-title @e title [{"text":"Entering "},{"bold":true,"color":"#FFFFFF","italic":true,"shadow_color":-16711423,"text":"The Wilds"}]
+execute as @e[distance=..12,sort=nearest,limit=1] if entity @s[type=player] title @p title [{"text":"Entering "},{"bold":true,"color":"#FFFFFF","italic":true,"shadow_color":-16711423,"text":"The Wilds"}]
